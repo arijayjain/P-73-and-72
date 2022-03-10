@@ -1,0 +1,16 @@
+#contact iframe
+{
+    width: 100%;
+}
+.Main-Div
+{
+    border:1px solid lightgrey;
+}
+.Main-Div img
+{
+  width:100%;
+}
+.Main-Div h5,.Main-Div p
+{
+ margin:20px;
+}
