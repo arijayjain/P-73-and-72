@@ -1,16 +1,10 @@
-#contact iframe
+.mrnavy
 {
-    width: 100%;
+    position:sticky;
+    top:0;
+    z-index:99999
 }
-.Main-Div
+h1
 {
-    border:1px solid lightgrey;
-}
-.Main-Div img
-{
-  width:100%;
-}
-.Main-Div h5,.Main-Div p
-{
- margin:20px;
+    color: aqua;
 }
